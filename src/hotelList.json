@@ -2,7 +2,8 @@
   {
     "name": "Hotel Jampa",
     "address": "Thamel, Kathmandu",
-    "booked": false,
+    "bookedCount": 0,
+    "price": 650,
     "isLiked": false,
     "image": "https://cf.bstatic.com/xdata/images/hotel/square200/173753181.webp?k=8ff5e90bbcd8c96f2af756bd9f85d987144a5a8977c308767b6eddafb1ca276f&o=&s=1",
     "description": "Hotel Jampa is set in Thamel and provides air-conditioned rooms with free WiFi. The property is 1.8 mi from Kathmandu Durbar Square and 1.9 mi from Swayambhunath Temple"
@@ -10,15 +11,17 @@
   {
     "name": "Malla hotel",
     "address": "bagbazar, Kathmandu",
-    "booked": false,
-    "isLiked": true,
+    "bookedCount": 0,
+    "price": 200,
+    "isLiked": false,
     "image": "https://cf.bstatic.com/xdata/images/hotel/square200/173753181.webp?k=8ff5e90bbcd8c96f2af756bd9f85d987144a5a8977c308767b6eddafb1ca276f&o=&s=1",
     "description": "malla Jampa is set in Thamel and provides air-conditioned rooms with free WiFi. The property is 1.8 mi from Kathmandu Durbar Square and 1.9 mi from Swayambhunath Temple"
   },
   {
     "name": "annapurna ",
     "address": "durbarmarg, Kathmandu",
-    "booked": false,
+    "bookedCount": 0,
+    "price": 150,
     "isLiked": false,
     "image": "https://cf.bstatic.com/xdata/images/hotel/square200/173753181.webp?k=8ff5e90bbcd8c96f2af756bd9f85d987144a5a8977c308767b6eddafb1ca276f&o=&s=1",
     "description": "Hotel Jampa is set in Thamel and provides air-conditioned rooms with free WiFi. The property is 1.8 mi from Kathmandu Durbar Square and 1.9 mi from Swayambhunath Temple"
@@ -26,7 +29,8 @@
   {
     "name": "Hotel Taj",
     "address": "Mumbai, Inndia",
-    "booked": false,
+    "bookedCount": 0,
+    "price": 350,
     "isLiked": false,
     "image": "https://cf.bstatic.com/xdata/images/hotel/square200/173753181.webp?k=8ff5e90bbcd8c96f2af756bd9f85d987144a5a8977c308767b6eddafb1ca276f&o=&s=1",
     "description": "Taj Hotel is set in Thamel and provides air-conditioned rooms with free WiFi. The property is 1.8 mi from Kathmandu Durbar Square and 1.9 mi from Swayambhunath Temple"
